@@ -10,6 +10,8 @@ So what I did was to record my experience building a Segway from scratch, withou
 
 That's it. I hope you have fun like I had using these info and maybe help improving it, since at that time I was like anyone, a complete amateur.
 
+# **Why Segway?**
+The best part in the mechanical engineering course is Control. I know i know, but making a robot that stands by itself is amazing. So amazing it makes you think that creating something like this is nearly impossible, but in reality it is just a little difficult (which is, a *lot* of difference!).
 
 # **Hardest Parts**
 For me, the hardest part of the whole robot was tuning the gyroscope, and you can have a better life quality reading this link: (https://www.geekmomprojects.com/gyroscopes-and-accelerometers-on-a-chip/). Thanks, Geek Mom.
