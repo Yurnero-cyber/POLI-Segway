@@ -1,6 +1,5 @@
 # POLI USP - Segway
-Simple and easy to use, this repository has all the code necessary to make a two-wheel segway, using only the necessary Arduino components.
-
+Creation of a two-wheeled robot that stands by itself. Amazing, right?
 The project has been finished, however feel free to contact me as much as you like.
 
 # **Story**
